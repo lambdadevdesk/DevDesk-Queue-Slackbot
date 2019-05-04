@@ -1,0 +1,10 @@
+{
+  "name": "DevDesk-Queue-Slackbot",
+  "version": "1.0.0",
+  "description": "Dev Desk Queue Slackbot",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
